@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+<Stable>
+<z2_plus>
+<Filename>RR-N-v5.8.5-20171226-z2_plus-Unofficial.zip</Filename>
+<RomUrl
+id="rom"
+title="Rom"
+description="Latest ResurrectionRemix build">https://mirror.iroserver.net/ZUK_Z2/RR/RR-N-v5.8.5-20171226-z2_plus-Unofficial.zip</RomUrl>
+<OldBuildsUrl
+id="Old_builds"
+title="Build Folder"
+description="Build Download Archive">https://mirror.iroserver.net/ZUK_Z2/RR/</OldBuildsUrl>
+</z2_plus>
+</Stable>
+</SlimOTA>
